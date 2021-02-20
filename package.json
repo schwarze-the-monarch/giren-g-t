@@ -1,0 +1,49 @@
+{
+  "name": "v12guard",
+  "version": "0.0.1",
+  "description": "guard",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "alexflipnote.js": "^2.3.4",
+    "asynckit": "^0.4.0",
+    "brawlstars.js": "^1.0.8",
+    "canvas": "^2.6.1",
+    "chalk": "^4.1.0",
+    "child_process": "^1.0.2",
+    "common-tags": "^1.8.0",
+    "csb": "^0.0.13",
+    "dblapi.js": "^2.4.1",
+    "discord-anti-spam-tr": "^0.7.4",
+    "discord.js": "^12.5.1",
+    "github-web-api": "^1.0.4",
+    "itunes-web-api": "^1.0.6",
+    "jimp": "^0.16.1",
+    "lol-web-scrapper": "^1.0.5",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^2.1.3",
+    "node-superfetch": "^0.1.10",
+    "parse-ms": "^2.1.0",
+    "quick.db": "^7.1.3",
+    "refresh": "^1.0.1",
+    "request": "^2.88.2",
+    "snekfetch": "^4.0.4",
+    "snowflake-api": "^3.0.3",
+    "spotify-info.js": "^1.0.4",
+    "tinycolor2": "^1.4.2",
+    "valorantajan": "^1.0.6"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "Serendia",
+    "Squad",
+    "Serendia Squad",
+    "Alosha"
+  ]
+}
